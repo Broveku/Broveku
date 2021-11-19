@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gearheartjordan@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1OjFYPctNcTr52f6tfH2mA9oLG7yYcYCE5C1zApDpiNg/edit](https://docs.google.com/document/d/1OjFYPctNcTr52f6tfH2mA9oLG7yYcYCE5C1zApDpiNg/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1OjFYPctNcTr52f6tfH2mA9oLG7yYcYCE5C1zApDpiNg/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
