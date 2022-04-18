@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **HiSamiCo, a small ecommerce website**
 
-- 🌱 I’m currently learning **Docker, C++, Unreal Engine**
+- 🌱 I’m currently learning **Docker, C++, Unreal Engine, Ionic**
 
 - 📫 How to reach me **gearheartjordan@gmail.com**
 
